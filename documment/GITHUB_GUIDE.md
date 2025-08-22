@@ -110,3 +110,7 @@ Bạn có thể chỉnh sửa `README.md` để giới thiệu bản thân.
 - 🎯 Mục tiêu: Fullstack Developer & AI Engineer  
 - 📫 Liên hệ: [Facebook](https://facebook.com/...) | [LinkedIn](https://linkedin.com/in/...)
 ```
+
+![Profile](../images/profile.png)
+
+---
