@@ -13,7 +13,7 @@
 - Kiểm tra cấu hình:  
   - `git config --list`
 
-![Git Config](images/config.png)
+![Git Config](../images/config.png)
 
 ---
 
@@ -27,13 +27,13 @@
 - Xem remote:  
   - `git remote -v`
 
-![Git Remote](images/remote.png)
+![Git Remote](../images/remote.png)
 
 ---
 
 ## 4. Làm việc với file
 
-![Git Status](https://git-scm.com/images/about/index1@2x.png)
+![Git Status](https://git-scm.com/../images/about/index1@2x.png)
 
 - Kiểm tra trạng thái:  
   - `git status`
@@ -43,7 +43,7 @@
 - Commit (lưu thay đổi):  
   - `git commit -m "Thông điệp commit"`
 
-![Git Status](images/status.png)
+![Git Status](../images/status.png)
 
 ---
 
@@ -99,7 +99,7 @@ Khi xong thì có thể hợp lại (merge/rebase).
 - `git reset --mixed <commit_id>` → quay về commit, giữ code trong working directory (mặc định).  
 - `git reset --hard <commit_id>` → quay về commit và **xóa luôn thay đổi** (không thể khôi phục).  
 
-![Git Branch](images/branch.png)
+![Git Branch](../images/branch.png)
 
 ---
 
@@ -118,7 +118,7 @@ Push = đưa code từ **local repo → remote repo (GitHub, GitLab, …)**
 - Push ép buộc (⚠ nguy hiểm, dùng khi muốn ghi đè vào):  
   - `git push --force`  
 
-![Git Push](images/push.png)
+![Git Push](../images/push.png)
 
 ---
 
@@ -132,7 +132,7 @@ Pull = **fetch + merge** (tải code mới về từ remote và trộn vào nhá
 - Chỉ định remote + nhánh:  
   - `git pull origin <ten_nhanh>`  
 
-![Git Pull](images/pull.png)
+![Git Pull](../images/pull.png)
 
 ---
 
@@ -147,7 +147,7 @@ Bạn có thể kiểm tra trước khi merge hoặc rebase.
 - Lấy về nhưng chỉ nhánh cụ thể:  
   - `git fetch origin <ten_nhanh>`  
 
-![Git Fetch](images/fetch.png)
+![Git Fetch](../images/fetch.png)
 
 ---
 
